@@ -1,0 +1,30 @@
+{
+    "keywords": {
+        "python": [
+            "What are the key features of Python?Explain the concept of decorators in Python."
+        ],
+        "teamwork": [
+            "Can you describe a situation where you worked in a team? What is your approach to resolving team conflicts?"
+        ],
+        "c++": [
+            "What are the differences between C++ and Python? How do you manage memory in C++?"
+        ],
+        "projects": [
+            "Tell me the recent project you have worked on ? What technology stack you have used? What was your role and what challenges you have faced?"
+            
+            
+        ],
+        "certifications": [
+            "What are the certifications you have done? what you have learnt from that?"
+        ],
+        "dbms": [
+            "What are real time examples of database ?how do wrrite a query to get the total order palced in library management system?"
+        ],
+        "linux": [
+            "Tell me the commands to file handling What are the system handling commands?"
+        ],
+        "leadership": [
+            "Can you give an example of a time you demonstrated leadership? How do you motivate a team as a leader?"
+        ]
+    }
+}
